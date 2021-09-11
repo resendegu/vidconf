@@ -135,7 +135,8 @@ function App() {
         <img 
           src={jitsi_logo}
           width="190"
-          height="60"  
+          height="60"
+          alt="test"  
         />
       </a>
     </div>
